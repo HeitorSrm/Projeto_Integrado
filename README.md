@@ -1,3 +1,3 @@
-<h1 align="left">EXERCÍCIOS DE PROJETO INTEGRADO</h1>
+<h1 align="center">EXERCÍCIOS DE PROJETO INTEGRADO</h1>
 
 ###
